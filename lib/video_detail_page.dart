@@ -7,11 +7,9 @@ class VideoDetailPage extends StatelessWidget {
       appBar: AppBar(),
       body: Center(
         child: Container(
-          child: Text('次のページです。'),
+          child: Text('世界中の隣人よ'),
         ),
-      )
-      ,
+      ),
     );
   }
-
 }
